@@ -21,6 +21,8 @@
 }
 .heading{
   text-align: center;
+  font-family:'Ubuntu', sans-serif;
+  font-weight: bold;
 }
 .button2{
     background-color: #008CBA;
@@ -40,4 +42,4 @@
 }
 #about > .about-text {
    padding:5px;
-}     
+}    
